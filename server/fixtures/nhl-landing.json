@@ -1,0 +1,191 @@
+{
+ "id": 2026020101,
+ "gameDate": "2026-10-10",
+ "startTimeUTC": "2026-10-10T23:00:00Z",
+ "gameState": "LIVE",
+ "gameScheduleState": "OK",
+ "venue": {
+  "default": "Arena"
+ },
+ "homeTeam": {
+  "abbrev": "NJD",
+  "name": {
+   "default": "Devils"
+  },
+  "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+  "score": 2,
+  "sog": 37,
+  "placeName": {
+   "default": "New Jersey"
+  },
+  "commonName": {
+   "default": "Devils"
+  },
+  "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NJD_dark.svg"
+ },
+ "awayTeam": {
+  "abbrev": "NSH",
+  "name": {
+   "default": "Predators"
+  },
+  "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
+  "score": 1,
+  "sog": 36,
+  "placeName": {
+   "default": "Nashville"
+  },
+  "commonName": {
+   "default": "Predators"
+  },
+  "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NSH_dark.svg"
+ },
+ "tvBroadcasts": [
+  {
+   "network": "ESPN+"
+  }
+ ],
+ "gameCenterLink": "/gamecenter/nsh-vs-njd/2026/10/10/2026020101",
+ "periodDescriptor": {
+  "number": 2,
+  "periodType": "REG"
+ },
+ "clock": {
+  "timeRemaining": "08:41",
+  "inIntermission": false
+ },
+ "summary": {
+  "scoring": [
+   {
+    "periodDescriptor": {
+     "number": 1,
+     "periodType": "REG"
+    },
+    "goals": [
+     {
+      "firstName": {
+       "default": "Nico"
+      },
+      "lastName": {
+       "default": "Hischier"
+      },
+      "name": {
+       "default": "N. Hischier"
+      },
+      "teamAbbrev": {
+       "default": "NJD"
+      },
+      "timeInPeriod": "04:12",
+      "homeScore": 1,
+      "awayScore": 0,
+      "strength": "ev",
+      "goalsToDate": 3,
+      "assists": [
+       {
+        "name": {
+         "default": "J. Hughes"
+        }
+       },
+       {
+        "name": {
+         "default": "J. Bratt"
+        }
+       }
+      ]
+     },
+     {
+      "firstName": {
+       "default": "Roman"
+      },
+      "lastName": {
+       "default": "Josi"
+      },
+      "name": {
+       "default": "R. Josi"
+      },
+      "teamAbbrev": {
+       "default": "NSH"
+      },
+      "timeInPeriod": "15:40",
+      "homeScore": 1,
+      "awayScore": 1,
+      "strength": "pp",
+      "goalsToDate": 2,
+      "assists": [
+       {
+        "name": {
+         "default": "F. Forsberg"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "periodDescriptor": {
+     "number": 2,
+     "periodType": "REG"
+    },
+    "goals": [
+     {
+      "firstName": {
+       "default": "Timo"
+      },
+      "lastName": {
+       "default": "Meier"
+      },
+      "name": {
+       "default": "T. Meier"
+      },
+      "teamAbbrev": {
+       "default": "NJD"
+      },
+      "timeInPeriod": "09:02",
+      "homeScore": 2,
+      "awayScore": 1,
+      "strength": "ev",
+      "goalsToDate": 5,
+      "assists": [
+       {
+        "name": {
+         "default": "N. Hischier"
+        }
+       },
+       {
+        "name": {
+         "default": "J. Siegenthaler"
+        }
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "penalties": [
+   {
+    "periodDescriptor": {
+     "number": 1,
+     "periodType": "REG"
+    },
+    "penalties": [
+     {
+      "timeInPeriod": "14:22",
+      "duration": 2,
+      "descKey": "hooking",
+      "teamAbbrev": {
+       "default": "NJD"
+      },
+      "committedByPlayer": {
+       "firstName": {
+        "default": "Jonas"
+       },
+       "lastName": {
+        "default": "Siegenthaler"
+       }
+      }
+     }
+    ]
+   }
+  ],
+  "threeStars": []
+ }
+}

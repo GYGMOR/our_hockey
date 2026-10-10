@@ -1,0 +1,431 @@
+{
+ "header": [
+  {
+   "alias": "day"
+  },
+  {
+   "alias": "date"
+  },
+  {
+   "alias": "time"
+  },
+  {
+   "alias": "homeTeam"
+  },
+  {
+   "alias": "awayTeam"
+  },
+  {
+   "alias": "score"
+  },
+  {
+   "alias": "scorePerPeriod"
+  },
+  {
+   "alias": "decision"
+  },
+  {
+   "alias": "status"
+  },
+  {
+   "alias": "details"
+  },
+  {
+   "alias": "broadcasts"
+  }
+ ],
+ "data": [
+  [
+   "Sa",
+   "10.10.2026",
+   "19:45",
+   {
+    "id": 103140,
+    "name": "Genève-Servette HC",
+    "acronym": "GSHC",
+    "type": "team",
+    "clubId": 103140
+   },
+   {
+    "id": 101151,
+    "name": "HC Davos",
+    "acronym": "HCD",
+    "type": "team",
+    "clubId": 101151
+   },
+   {
+    "homeTeam": "1",
+    "awayTeam": "2",
+    "type": "result"
+   },
+   {
+    "homeTeam": [
+     "1",
+     "0",
+     "-"
+    ],
+    "awayTeam": [
+     "2",
+     "0",
+     "-"
+    ],
+    "type": "periods"
+   },
+   "",
+   {
+    "id": 3,
+    "startDateTime": "2026-10-10T19:45:00+02:00",
+    "percent": 50,
+    "name": "2. Drittel",
+    "canceled": false,
+    "type": "gameStatus"
+   },
+   {
+    "gameId": "20271105000074",
+    "type": "linkToGameDetail"
+   },
+   {
+    "entries": [
+     "MYSPORTS"
+    ],
+    "type": "broadcasts"
+   }
+  ],
+  [
+   "Sa",
+   "10.10.2026",
+   "19:45",
+   {
+    "id": 101152,
+    "name": "HC Ambri-Piotta",
+    "acronym": "HCAP",
+    "type": "team",
+    "clubId": 101152
+   },
+   {
+    "id": 102126,
+    "name": "SC Bern",
+    "acronym": "SCB",
+    "type": "team",
+    "clubId": 102126
+   },
+   {
+    "homeTeam": "0",
+    "awayTeam": "0",
+    "type": "result"
+   },
+   {
+    "homeTeam": [
+     "0",
+     "0",
+     "-"
+    ],
+    "awayTeam": [
+     "0",
+     "0",
+     "-"
+    ],
+    "type": "periods"
+   },
+   "",
+   {
+    "id": 3,
+    "startDateTime": "2026-10-10T19:45:00+02:00",
+    "percent": 50,
+    "name": "2. Drittel",
+    "canceled": false,
+    "type": "gameStatus"
+   },
+   {
+    "gameId": "20271105000072",
+    "type": "linkToGameDetail"
+   },
+   {
+    "entries": [
+     "MYSPORTS"
+    ],
+    "type": "broadcasts"
+   }
+  ],
+  [
+   "Sa",
+   "10.10.2026",
+   "19:45",
+   {
+    "id": 101060,
+    "name": "SC Rapperswil-Jona Lakers",
+    "acronym": "SCRJ",
+    "type": "team",
+    "clubId": 101060
+   },
+   {
+    "id": 103141,
+    "name": "Lausanne HC",
+    "acronym": "LHC",
+    "type": "team",
+    "clubId": 103141
+   },
+   {
+    "homeTeam": "1",
+    "awayTeam": "0",
+    "type": "result"
+   },
+   {
+    "homeTeam": [
+     "1",
+     "0",
+     "-"
+    ],
+    "awayTeam": [
+     "0",
+     "0",
+     "-"
+    ],
+    "type": "periods"
+   },
+   "",
+   {
+    "id": 3,
+    "startDateTime": "2026-10-10T19:45:00+02:00",
+    "percent": 50,
+    "name": "2. Drittel",
+    "canceled": false,
+    "type": "gameStatus"
+   },
+   {
+    "gameId": "20271105000076",
+    "type": "linkToGameDetail"
+   },
+   {
+    "entries": [
+     "MYSPORTS"
+    ],
+    "type": "broadcasts"
+   }
+  ],
+  [
+   "Sa",
+   "10.10.2026",
+   "19:45",
+   {
+    "id": 102128,
+    "name": "EHC Biel-Bienne",
+    "acronym": "EHCB",
+    "type": "team",
+    "clubId": 102128
+   },
+   {
+    "id": 101150,
+    "name": "HC Lugano",
+    "acronym": "HCL",
+    "type": "team",
+    "clubId": 101150
+   },
+   {
+    "homeTeam": "0",
+    "awayTeam": "0",
+    "type": "result"
+   },
+   {
+    "homeTeam": [
+     "0",
+     "0",
+     "-"
+    ],
+    "awayTeam": [
+     "0",
+     "0",
+     "-"
+    ],
+    "type": "periods"
+   },
+   "",
+   {
+    "id": 3,
+    "startDateTime": "2026-10-10T19:45:00+02:00",
+    "percent": 50,
+    "name": "2. Drittel",
+    "canceled": false,
+    "type": "gameStatus"
+   },
+   {
+    "gameId": "20271105000073",
+    "type": "linkToGameDetail"
+   },
+   {
+    "entries": [
+     "MYSPORTS"
+    ],
+    "type": "broadcasts"
+   }
+  ],
+  [
+   "Sa",
+   "10.10.2026",
+   "19:45",
+   {
+    "id": 101139,
+    "name": "ZSC Lions",
+    "acronym": "ZSC",
+    "type": "team",
+    "clubId": 101139
+   },
+   {
+    "id": 103138,
+    "name": "Fribourg-Gottéron",
+    "acronym": "FRI",
+    "type": "team",
+    "clubId": 103138
+   },
+   {
+    "homeTeam": "2",
+    "awayTeam": "2",
+    "type": "result"
+   },
+   {
+    "homeTeam": [
+     "2",
+     "0",
+     "-"
+    ],
+    "awayTeam": [
+     "1",
+     "1",
+     "-"
+    ],
+    "type": "periods"
+   },
+   "",
+   {
+    "id": 3,
+    "startDateTime": "2026-10-10T19:45:00+02:00",
+    "percent": 50,
+    "name": "2. Drittel",
+    "canceled": false,
+    "type": "gameStatus"
+   },
+   {
+    "gameId": "20271105000077",
+    "type": "linkToGameDetail"
+   },
+   {
+    "entries": [
+     "MYSPORTS"
+    ],
+    "type": "broadcasts"
+   }
+  ],
+  [
+   "Sa",
+   "10.10.2026",
+   "19:45",
+   {
+    "id": 103144,
+    "name": "HC Ajoie",
+    "acronym": "HCA",
+    "type": "team",
+    "clubId": 103144
+   },
+   {
+    "id": 102127,
+    "name": "SCL Tigers",
+    "acronym": "SCL",
+    "type": "team",
+    "clubId": 102127
+   },
+   {
+    "homeTeam": "0",
+    "awayTeam": "3",
+    "type": "result"
+   },
+   {
+    "homeTeam": [
+     "0",
+     "0",
+     "-"
+    ],
+    "awayTeam": [
+     "3",
+     "0",
+     "-"
+    ],
+    "type": "periods"
+   },
+   "",
+   {
+    "id": 3,
+    "startDateTime": "2026-10-10T19:45:00+02:00",
+    "percent": 50,
+    "name": "2. Drittel",
+    "canceled": false,
+    "type": "gameStatus"
+   },
+   {
+    "gameId": "20271105000071",
+    "type": "linkToGameDetail"
+   },
+   {
+    "entries": [
+     "MYSPORTS"
+    ],
+    "type": "broadcasts"
+   }
+  ],
+  [
+   "Sa",
+   "10.10.2026",
+   "19:45",
+   {
+    "id": 101149,
+    "name": "EHC Kloten",
+    "acronym": "EHCK",
+    "type": "team",
+    "clubId": 101149
+   },
+   {
+    "id": 101144,
+    "name": "EV Zug",
+    "acronym": "EVZ",
+    "type": "team",
+    "clubId": 101144
+   },
+   {
+    "homeTeam": "-",
+    "awayTeam": "-",
+    "type": "result"
+   },
+   {
+    "homeTeam": [
+     "-",
+     "-",
+     "-"
+    ],
+    "awayTeam": [
+     "-",
+     "-",
+     "-"
+    ],
+    "type": "periods"
+   },
+   "",
+   {
+    "id": 0,
+    "startDateTime": "2026-10-10T19:45:00+02:00",
+    "percent": 0,
+    "name": "Wie geplant",
+    "canceled": false,
+    "type": "gameStatus"
+   },
+   {
+    "gameId": "20271105000075",
+    "type": "linkToGameDetail"
+   },
+   {
+    "entries": [
+     "MYSPORTS"
+    ],
+    "type": "broadcasts"
+   }
+  ]
+ ]
+}

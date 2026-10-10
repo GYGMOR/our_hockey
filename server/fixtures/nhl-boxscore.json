@@ -1,0 +1,183 @@
+{
+ "gameOutcome": null,
+ "playerByGameStats": {
+  "homeTeam": {
+   "forwards": [
+    {
+     "name": {
+      "default": "N. Hischier"
+     },
+     "sweaterNumber": 13,
+     "position": "C",
+     "goals": 0,
+     "assists": 0,
+     "points": 0,
+     "plusMinus": 0,
+     "pim": 0,
+     "sog": 1,
+     "toi": "13:43"
+    },
+    {
+     "name": {
+      "default": "T. Meier"
+     },
+     "sweaterNumber": 28,
+     "position": "R",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "plusMinus": 1,
+     "pim": 0,
+     "sog": 0,
+     "toi": "10:27"
+    },
+    {
+     "name": {
+      "default": "J. Hughes"
+     },
+     "sweaterNumber": 86,
+     "position": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "plusMinus": -1,
+     "pim": 0,
+     "sog": 4,
+     "toi": "15:38"
+    },
+    {
+     "name": {
+      "default": "J. Bratt"
+     },
+     "sweaterNumber": 63,
+     "position": "L",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "plusMinus": -1,
+     "pim": 0,
+     "sog": 1,
+     "toi": "11:24"
+    }
+   ],
+   "defense": [
+    {
+     "name": {
+      "default": "J. Siegenthaler"
+     },
+     "sweaterNumber": 71,
+     "position": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "plusMinus": 0,
+     "pim": 0,
+     "sog": 1,
+     "toi": "17:49"
+    },
+    {
+     "name": {
+      "default": "D. Hamilton"
+     },
+     "sweaterNumber": 7,
+     "position": "D",
+     "goals": 0,
+     "assists": 1,
+     "points": 1,
+     "plusMinus": 1,
+     "pim": 0,
+     "sog": 2,
+     "toi": "22:51"
+    }
+   ],
+   "goalies": [
+    {
+     "name": {
+      "default": "J. Markström"
+     },
+     "sweaterNumber": 25,
+     "shotsAgainst": 22,
+     "saves": 21,
+     "goalsAgainst": 1,
+     "savePctg": 0.955,
+     "toi": "40:00"
+    }
+   ]
+  },
+  "awayTeam": {
+   "forwards": [
+    {
+     "name": {
+      "default": "F. Forsberg"
+     },
+     "sweaterNumber": 9,
+     "position": "L",
+     "goals": 0,
+     "assists": 0,
+     "points": 0,
+     "plusMinus": 0,
+     "pim": 0,
+     "sog": 1,
+     "toi": "17:21"
+    },
+    {
+     "name": {
+      "default": "S. Stamkos"
+     },
+     "sweaterNumber": 91,
+     "position": "C",
+     "goals": 1,
+     "assists": 1,
+     "points": 2,
+     "plusMinus": -1,
+     "pim": 0,
+     "sog": 3,
+     "toi": "17:35"
+    },
+    {
+     "name": {
+      "default": "R. O'Reilly"
+     },
+     "sweaterNumber": 90,
+     "position": "C",
+     "goals": 0,
+     "assists": 0,
+     "points": 0,
+     "plusMinus": -1,
+     "pim": 0,
+     "sog": 1,
+     "toi": "10:19"
+    }
+   ],
+   "defense": [
+    {
+     "name": {
+      "default": "R. Josi"
+     },
+     "sweaterNumber": 59,
+     "position": "D",
+     "goals": 1,
+     "assists": 0,
+     "points": 1,
+     "plusMinus": 1,
+     "pim": 0,
+     "sog": 4,
+     "toi": "17:52"
+    }
+   ],
+   "goalies": [
+    {
+     "name": {
+      "default": "J. Saros"
+     },
+     "sweaterNumber": 74,
+     "shotsAgainst": 25,
+     "saves": 23,
+     "goalsAgainst": 2,
+     "savePctg": 0.92,
+     "toi": "40:00"
+    }
+   ]
+  }
+ }
+}
